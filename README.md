@@ -44,22 +44,22 @@ Dataset Files:
 ## Screenshots
 
 ### 1. Movies vs TV Shows
-![Movies vs TV Shows](screenshots/1. movies_vs_tvshows.png)
+![Movies vs TV Shows]<img width="738" height="489" alt="1  movies_vs_tvshows" src="https://github.com/user-attachments/assets/1b3ac5c6-8f59-4a10-ac04-013bdbfd52cd" />
+
 
 ### 2. Top Countries
-![Top Countries](screenshots/02_top_countries.png)
+![Top Countries]<img width="969" height="487" alt="2  top_countries" src="https://github.com/user-attachments/assets/0f6e359c-f421-40c4-bd55-f9e5306bb081" />
+
 
 ### 3. Content Ratings
-![Content Ratings](screenshots/03_content_ratings.png)
+![Content Ratings])<img width="970" height="483" alt="3  content_ratings" src="https://github.com/user-attachments/assets/c603301e-00ad-4737-ba07-1c4e07e02f63" />
+
 
 ### 4. Release Trend
-![Release Trend](screenshots/04_release_trend.png)
+![Release Trend]<img width="972" height="404" alt="4  release_trend" src="https://github.com/user-attachments/assets/634d2896-0cb4-4014-991e-a22f142029c5" />
 
-### 5. Correlation Heatmap
-![Correlation Heatmap](screenshots/05_correlation_heatmap.png)
 
-### 6. KMeans Clustering
-![KMeans Clustering](screenshots/06_kmeans_clustering.png)
+
 
 ---
 
